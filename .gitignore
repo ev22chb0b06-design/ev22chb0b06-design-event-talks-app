@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.pnpm-store/
+
+# Logs
+logs/
+*.log
+*.tmp
+
+# IDEs and other
+.vscode/
+.idea/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
